@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zobamba
 - 👀 I’m interested in Full stack web development
-- 💞️ I’m looking to collaborate on Web development
+- 💞️ I’m looking to collaborate on open source Web development projects
 - 📫 Reach me: onahbernardchizoba@gmail.com
 
 <!---
